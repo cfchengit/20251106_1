@@ -55,7 +55,7 @@ function draw() {
     // 計算百分比
     let percentage = (finalScore / maxScore) * 100;
 
-    textSize(80); 
+    textSize(40); 
     textAlign(CENTER);
     
     // -----------------------------------------------------------------
